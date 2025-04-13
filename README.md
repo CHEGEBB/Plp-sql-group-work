@@ -77,7 +77,7 @@ This project was created to fulfill the requirements for the Database Design & P
 
 ## Contributors
 - Brian Chege - Github - https://github.com/CHEGEB
-- Verra Achieng -Github - https://github.com/CHEGEB
+- Verra Achieng -Github - https://github.com/chiz-21
 
 ## Submission Date
 April 13, 2025
