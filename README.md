@@ -11,8 +11,8 @@ This project implements a comprehensive MySQL database for a bookstore managemen
 ## Entity Relationship Diagram (ERD)
 The following diagram illustrates the relationships between tables in our bookstore database:
 
+![erd](https://github.com/user-attachments/assets/9e00714a-acca-4bec-bdac-ace0e14b6aec)
 
-*Note: To include the actual ERD in your repository, take a screenshot of the ERD from Draw.io or any other tool you used, save it as "erd_screenshot.png" in your repository, and it will be displayed here.*
 
 ## Database Schema
 
